@@ -21,7 +21,7 @@
     "php": ">=5.4.0",
     "illuminate/contracts": "~5.0",
     "codezero/curl": "1.*",
-    "phpfastcache/phpfastcache": "dev-final"
+    "phpfastcache/phpfastcache": "dev-master"
   },
   "require-dev": {
     "phpspec/phpspec": "~2.0"
